@@ -1,0 +1,13 @@
+{
+  "name": "imgSlider",
+  "version": "1.0.0",
+  "description": "imgSlider component dev",
+  "main": "index.js",
+  "repository": "https://github.com/bradlyy/imgSlider.git",
+  "author": "Bradly <736036128@qq.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "browser-sync": "^2.24.4"
+  }
+}
